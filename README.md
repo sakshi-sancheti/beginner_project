@@ -1,2 +1,2 @@
 # beginner_project
-html,css,js basic project
+Beginner friendly project which can be made within 30 minutes with basic html, css and javascript. 
