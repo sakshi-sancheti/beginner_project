@@ -1,0 +1,46 @@
+*{
+    box-sizing: border-box;
+    margin:0;
+    padding: 0;
+   background-color: green;
+
+}
+h1{
+    font-family:Georgia;
+    font-weight: bold;
+    font-size: 3rem;
+    color: antiquewhite;
+    text-align: center;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.emoji
+{
+    font-size: 10rem;
+    cursor: pointer;
+    user-select: none;
+}
+
+.ears
+{
+    display: none;
+}
+
+.eyes
+{
+    display: none;
+}
+.mouth
+{
+    display:none;
+}
+
+.active
+{
+    display: block;
+}
